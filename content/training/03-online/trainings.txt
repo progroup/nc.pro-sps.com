@@ -1,0 +1,24 @@
+Title: Online Training
+
+----
+
+Trainings: 
+
+- 
+  dates: February 7, 2018
+  date: 2018-02-07
+  modality: Online
+  training: Testing...
+  description: Testing
+  logistics: http://yahoo.com
+  ceus: ""
+  archived: ""
+- 
+  dates: Another
+  date: 2018-01-08
+  modality: Online
+  training: Testing Again
+  description: Description
+  logistics: Downtown
+  ceus: "6"
+  archived: 'No'

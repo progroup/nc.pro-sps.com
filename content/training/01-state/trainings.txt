@@ -1,0 +1,709 @@
+Title: State Training and Events
+
+----
+
+Trainings: 
+
+- 
+  dates: 'Wednesday, August 23, 2017 10:am - 4pm'
+  modality: Webinar
+  training: NC SUPPORT Data Dashboard
+  description: |
+    Over the last year, the Community Wellness, Health Integration, and Prevention Section of the Division of Mental Health, Developmental Disabilities, and Substance Abuse Services has developed the NC SUPPORT data dashboard, with funding from the Partnership For Success project. For this webinar we will share the current and planned NC SUPPORT content and analysis functions.
+    
+    NC SUPPORT, NC Substance Use Prevention Planning, Outcomes, Risks and Trends, collects administrative data available for all 100 counties in North Carolina, with demographic breakdowns where possible. It provides statewide rankings from 1-100 for all included risk constructs, as well as maps, and trend charts. Users may examine county profiles, compare individual risk constructs across multiple counties, and compare multiple risk constructs within a county. It is intended to be useful for prevention planning and evaluation.
+  logistics: |
+    Event number: 731 661 092
+    Event password: data
+    Panelist password: The Event has no Panelist Password
+    Host key: 252641 (Use this to reclaim host privileges.)
+    Event address for attendees: https://drugfreenc.webex.com/drugfreenc/onstage/g.php?MTID=e4c5e5502b2bea87b1bcd16ee1c0628d0
+  ceus: ""
+  archived: ""
+- 
+  dates: September 15th
+  modality: Online
+  training: Join ECCO
+  description: >
+    An account is required to access ECCO.
+    If one hasn’t been created, it can be
+    done so through the website
+    ncpreventiontta.org by clicking on the
+    ECCO button at the top right of the
+    screen and going to create an account.
+  logistics: n/a
+  ceus: ""
+  archived: ""
+- 
+  dates: September 18-20
+  modality: Durham, NC
+  training: Media Ready, Media Detective Training
+  description: Evidence-based curriculum training.
+  logistics: 'Registration Link: n/a'
+  ceus: ""
+  archived: ""
+- 
+  dates: September 19-20
+  modality: Winston-Salem
+  training: >
+    Evaluation and Sustainability Training
+    for PFS (open to Block Grant)
+  description: >
+    Focused on evaluation and sustainability
+    with an emphasis on coalition work.
+  logistics: 'Registration link: full'
+  ceus: ""
+  archived: ""
+- 
+  dates: September 22st
+  modality: Winston-Salem
+  training: ECCO Training
+  description: >
+    Learn how to add intervention profiles
+    within the reporting system.
+  logistics: 'Registration link: full'
+  ceus: ""
+  archived: ""
+- 
+  dates: September 22nd
+  modality: Eastpointe-Rocky Mount
+  training: ECCO Training
+  description: >
+    Learn how to add intervention profiles
+    within the reporting system.
+  logistics: >
+    https://www.eventbrite.com/e/ecco-reporting-system-rocky-mount-tickets-37073015387
+  ceus: ""
+  archived: ""
+- 
+  dates: September 26, 10-11:30
+  modality: ""
+  training: 'Webinars for CURES Grantees: MENTORS'
+  description: >
+    Specifically for those counties with
+    CURES funding.
+  logistics: n/a
+  ceus: ""
+  archived: ""
+- 
+  dates: September 26, 1-2:30 PM
+  modality: ""
+  training: 'Webinars for CURES Grantees: MENTEES'
+  description: >
+    Specifically for those counties with
+    CURES funding.
+  logistics: n/a
+  ceus: ""
+  archived: ""
+- 
+  dates: October 6th
+  modality: ECCO
+  training: Implementation Plans Due
+  description: >
+    All Intervention Profiles must be
+    entered for each LME/MCO served.
+  logistics: ""
+  ceus: ""
+  archived: ""
+- 
+  dates: October 10-11th
+  modality: >
+    1/2 for Mentors; ½ for Mentees for ECCO
+    1 1/2 for SPF for Mentees/Mentors
+  training: SPF Training for CURES sites
+  description: >
+    Specifically for those counties with
+    CURES funding.
+  logistics: n/a
+  ceus: ""
+  archived: ""
+- 
+  dates: October 13 2:00-4:00
+  modality: Webinar
+  training: Process Data Entry for ECCO
+  description: >
+    All Intervention Profiles must be
+    entered for each LME/MCO served.
+  logistics: >
+    https://drugfreenc.webex.com/drugfreenc/onstage/g.php?MTID=e7a5c8b54b7b543fe767ec5d186ceb7e4
+  ceus: ""
+  archived: ""
+- 
+  dates: October 18-20
+  modality: Wilmington
+  training: APNC
+  description: Statewide training.
+  logistics: www.apnc.org
+  ceus: ""
+  archived: ""
+- 
+  dates: October 20
+  modality: ECCO
+  training: Process Data Due
+  description: >
+    This webinar is for anyone who will be
+    responsible for entering process data
+    from July 1-September 30.
+  logistics: ""
+  ceus: ""
+  archived: ""
+- 
+  dates: October 24 1:00-3:00
+  modality: Webinar
+  training: ECCO for Process Data Entry
+  description: >
+    This is a brief webinar to help any
+    staff who will be entering process data
+    (hours and reach/numbers) to meet the
+    monthly deadline.
+  logistics: |
+    Register by October 23
+    https://drugfreenc.webex.com/drugfreenc/onstage/g.php?MTID=ef6b09b883cf7be9adf3d2e98dac07d89
+  ceus: ""
+  archived: ""
+- 
+  dates: October 25 10:00-12:00
+  modality: >
+    Webinar/ Again in late Nov/Early
+    December
+  training: >
+    TA Follow-up for Regional Meetings/Needs
+    Assessment Cardinal WEBINAR
+  description: >
+    Follow-up for the needs assessment with
+    the TTA Team. Providers will show their
+    progress on the needs assessment. It
+    does not have to be completed by this
+    date.
+  logistics: >
+    https://drugfreenc.webex.com/drugfreenc/onstage/g.php?MTID=e043319ab6d87f6ff0191b7a8cfc3f1a8
+  ceus: ""
+  archived: ""
+- 
+  dates: October 30 10-12
+  modality: >
+    Again in late Nov/Early December Durham,
+    NC
+  training: >
+    TA Follow-up for Regional Meetings/Needs
+    Assessment Alliance face-to-face
+  description: >
+    Follow-up for the needs assessment with
+    the TTA Team. Providers will show their
+    progress on the needs assessment. It
+    does not have to be completed by this
+    date.
+  logistics: ""
+  ceus: ""
+  archived: ""
+- 
+  dates: October 31 9:00-11:00 a.m.
+  modality: Again in late Nov/Early December
+  training: 'TA Follow-up for Regional Meetings/Needs Assessment Trillium  Webinar'
+  description: >
+    Follow-up for the needs assessment with
+    the TTA Team. Providers will show their
+    progress on the needs assessment. It
+    does not have to be completed by this
+    date.
+  logistics: >
+    https://drugfreenc.webex.com/drugfreenc/onstage/g.php?MTID=eca4e850ab06dec6b4c382b48f386913d
+  ceus: ""
+  archived: ""
+- 
+  dates: November 1 2-4pm
+  modality: Again in late Nov/Early December
+  training: 'TA Follow-up for Regional Meetings/Needs Assessment Eastpointe: WEBINAR'
+  description: >
+    Follow-up for the needs assessment with
+    the TTA Team. Providers will show their
+    progress on the needs assessment. It
+    does not have to be completed by this
+    date.
+  logistics: n/a
+  ceus: ""
+  archived: ""
+- 
+  dates: November 1 9:00-11:00
+  modality: Again in late Nov/Early December
+  training: >
+    TA Follow-up for Regional Meetings/Needs
+    Assessment Vaya WEBINAR
+  description: >
+    Follow-up for the needs assessment with
+    the TTA Team. Providers will show their
+    progress on the needs assessment. It
+    does not have to be completed by this
+    date.
+  logistics: >
+    https://drugfreenc.webex.com/drugfreenc/onstage/g.php?MTID=ea063f4787b726bb0d98a9a6fc570bd63
+  ceus: ""
+  archived: ""
+- 
+  dates: November 2 9:00-11:00
+  modality: face to face
+  training: >
+    TA Follow-up for Regional Meetings/Needs
+    Assessment-Sandhills
+  description: >
+    Follow-up for the needs assessment with
+    the TTA Team. Providers will show their
+    progress on the needs assessment. It
+    does not have to be completed by this
+    date.
+  logistics: ""
+  ceus: ""
+  archived: ""
+- 
+  dates: November 6 2:00pm
+  modality: Webinar
+  training: ECCO Monitoring Webinar
+  description: >
+    This webinar is for those who will be
+    using the system for monitoring purposes
+    (primarily LME/MCO representatives and
+    Prevention Directors).
+  logistics: |
+    Register by October 23
+    https://drugfreenc.webex.com/drugfreenc/onstage/g.php?MTID=e4e6136e345a9e9d93d62d834bb718104
+  ceus: ""
+  archived: ""
+- 
+  dates: November 7-8
+  modality: Winston-Salem
+  training: YPE (2 day)
+  description: >
+    This is the annual Youth Prevention
+    Education Training that is required for
+    any staff that provides prevention
+    education programming within the
+    community. This is only to be taken 1
+    time by an individual.
+  logistics: >
+    https://www.eventbrite.com/e/youth-prevention-education-tickets-37104214705
+  ceus: ""
+  archived: ""
+- 
+  dates: November 9 10:00-12:00
+  modality: Again in late Nov/Early December
+  training: >
+    TA Follow-up for Regional Meetings/Needs
+    Assessment Partners
+  description: >
+    Follow-up for the needs assessment with
+    the TTA Team. Providers will show their
+    progress on the needs assessment. It
+    does not have to be completed by this
+    date.
+  logistics: ""
+  ceus: ""
+  archived: ""
+- 
+  dates: November
+  modality: TBD
+  training: Ethics Webinar
+  description: >
+    Receive certification hours for
+    prevention ethics, which is required for
+    certification.
+  logistics: TBD
+  ceus: ""
+  archived: ""
+- 
+  dates: November 28-29
+  modality: Winston-Salem
+  training: Communications Campaigns (2 day)
+  description: >
+    This state required training for any
+    provider conducting communication
+    campaigns will be different from past
+    trainings as it will have a focus on the
+    statewide Lock Your Meds Campaign. It
+    will have some similar content as last
+    year’s training. An individual is not
+    required to attend more than 1 time.
+  logistics: |
+    Nov 2 Deadline to Register:
+    https://www.eventbrite.com/e/communication-campaigns-training-winston-salem-tickets-37859612119
+  ceus: ""
+  archived: ""
+- 
+  dates: November 30-December 1
+  modality: Raleigh
+  training: Communications Campaigns (2 day)
+  description: >
+    This state required training for any
+    provider conducting communication
+    campaigns will be different from past
+    trainings as it will have a focus on the
+    statewide Lock Your Meds Campaign. It
+    will have some similar content as last
+    year’s training. An individual is not
+    required to attend more than 1 time.
+  logistics: |
+    Nov 2 Deadline to Register:
+    https://www.eventbrite.com/e/communications-campaign-raleigh-tickets-37862560939
+  ceus: ""
+  archived: ""
+- 
+  dates: December 6
+  modality: Winston-Salem
+  training: CURES training for specialty area
+  description: Specific to CURES funding recipients
+  logistics: CURES grantees will receive information.
+  ceus: ""
+  archived: ""
+- 
+  dates: December 7-8
+  modality: Winston-Salem
+  training: >
+    December 7-8	2-day Working with Health
+    Care Training for PFS (open to others)
+  description: >
+    This training will focus on how
+    coalitions and providers can work with
+    healthcare on environmental strategies.
+    It will focus on Rx content as it is
+    targeted towards PFS communities, but it
+    is open to other providers/sites. This
+    training will provide specific ways to
+    work with healthcare professionals
+    within your community.
+  logistics: Registration link to come.
+  ceus: ""
+  archived: ""
+- 
+  dates: January 9th
+  modality: Raleigh
+  training: 'Planning and Prioritization *1 day'
+  description: >
+    Learn how to utilize your needs
+    assessment to choose strategies and
+    interventions. Additionally learn how to
+    look at priorities identified in the
+    needs and link them to interventions
+    that will address the needs. Learn how
+    to develop and enter Part E (work
+    bundles/action plans) for the
+    interventions into the ECCO Reporting
+    system.
+  logistics: |
+    Register by December 18
+    https://www.eventbrite.com/e/planning-and-prioritization-training-raleigh-tickets-37879752359
+  ceus: ""
+  archived: ""
+- 
+  dates: 'January 10   10:00-12:00'
+  modality: Webinar
+  training: Nicotine Webinar
+  description: >
+    Learn more about current Nicotine,
+    tobacco and ENDs with the trends and
+    current data.
+  logistics: |
+    Register by January 9
+    https://drugfreenc.webex.com/drugfreenc/onstage/g.php?MTID=e9321a7cce12a441aeac6ae6bffd96d5a
+  ceus: ""
+  archived: ""
+- 
+  dates: January 11th
+  modality: Winston-Salem
+  training: 'Planning and Prioritization *1 day'
+  description: >
+    Learn how to utilize your needs
+    assessment to choose strategies and
+    interventions. Additionally learn how to
+    look at priorities identified in the
+    needs and link them to interventions
+    that will address the needs. Learn how
+    to develop and enter Part E (work
+    bundles/action plans) for the
+    interventions into the ECCO Reporting
+    system.
+  logistics: |
+    Register by December 18
+    https://www.eventbrite.com/e/planning-and-prioritization-training-winston-salem-tickets-37862908980
+  ceus: ""
+  archived: ""
+- 
+  dates: January 17-18
+  modality: Raleigh/Cary
+  training: Collective Impact (partner with SPF-Rx)
+  description: |
+    Objectives:
+    
+    1.	Introduce and create a shared understanding of the collective impact framework
+    2.	Explore resources and tools to enhance capacity to implement the collective impact framework
+    3.	Build participant knowledge to begin applying collective impact to their community agenda
+  logistics: |
+    Register by December 27
+    https://www.eventbrite.com/e/coalitions-and-collaborative-collective-impact-in-raleighcary-nc-tickets-38056001525
+  ceus: ""
+  archived: ""
+- 
+  dates: January 17-18
+  modality: Raleigh/Cary
+  training: Collective Impact (partner with SPF-Rx)
+  description: |
+    Objectives:
+    
+    1.	Introduce and create a shared understanding of the collective impact framework
+    2.	Explore resources and tools to enhance capacity to implement the collective impact framework
+    3.	Build participant knowledge to begin applying collective impact to their community agenda
+  logistics: |
+    Register by December 27
+    https://www.eventbrite.com/e/coalitions-and-collaborative-collective-impact-in-raleighcary-nc-tickets-38056001525
+  ceus: ""
+  archived: ""
+- 
+  dates: January 25th
+  modality: webinar-Melinda
+  training: Dashboard Webinar (10am)
+  description: >
+    See new data added to the NC Support
+    Dashboard, learn how to navigate the
+    dashboard, and ask your questions about
+    what could come next.
+  logistics: |
+    Register by January 24
+    https://drugfreenc.webex.com/drugfreenc/onstage/g.php?MTID=e56465aaa3698ac57e2456ff44fecfecf
+  ceus: ""
+  archived: ""
+- 
+  dates: Feb (tentative Feb 12)
+  modality: Raleigh (Governor’s Institute)
+  training: Regional Synar Meeting
+  description: Details to come
+  logistics: |
+    Register by January 15
+    https://www.eventbrite.com/e/synar-meeting-raleigh-tickets-38051330554
+  ceus: ""
+  archived: ""
+- 
+  dates: Feb (tentative Feb 13)
+  modality: Raleigh (Governor’s Institute)
+  training: Law Enforcement
+  description: Details to come
+  logistics: |
+    Register by January 15
+    https://www.eventbrite.com/e/working-with-law-enforcement-raleigh-tickets-38049495064
+  ceus: ""
+  archived: ""
+- 
+  dates: Feb (tentative Feb 14)
+  modality: Asheville
+  training: Regional Synar Meeting
+  description: Details to come
+  logistics: |
+    Register by January 15
+    https://www.eventbrite.com/e/synar-meeting-asheville-tickets-38052662538
+  ceus: ""
+  archived: ""
+- 
+  dates: Feb (tentative Feb 15)
+  modality: Winston-Salem
+  training: Regional Synar Meeting
+  description: Details to come
+  logistics: |
+    Register by January 15
+    https://www.eventbrite.com/e/synar-meeting-winston-salem-tickets-38053397737
+  ceus: ""
+  archived: ""
+- 
+  dates: Feb (tentative Feb 16)
+  modality: Winston-Salem
+  training: Law Enforcement
+  description: Details to come
+  logistics: |
+    Register by January 15
+    https://www.eventbrite.com/e/working-with-law-enforcement-winston-salem-tickets-38053634445
+  ceus: ""
+  archived: ""
+- 
+  dates: January/ February
+  modality: ""
+  training: ""
+  description: >
+    TA with communication campaigns
+    attendees to follow up on use of media
+    campaign will be scheduled with
+    provider.
+  logistics: ""
+  ceus: ""
+  archived: ""
+- 
+  dates: February
+  modality: Winston-Salem
+  training: CURES training for specialty area
+  description: For CURES sites.
+  logistics: TBD
+  ceus: ""
+  archived: ""
+- 
+  dates: February
+  modality: Webinar
+  training: HIV Webinar
+  description: >
+    Gain certification hours for HIV
+    specific content as it connects with the
+    field of substance abuse.
+  logistics: 'TBD- Register by the day before of the webinar.'
+  ceus: ""
+  archived: ""
+- 
+  dates: February
+  modality: ""
+  training: ""
+  description: |
+    TA Follow-up with planning, prioritization, where are they and where do they need to be, action plans started.
+    Will be scheduled by provider
+  logistics: TBD
+  ceus: ""
+  archived: ""
+- 
+  dates: March
+  modality: Winston-Salem
+  training: Working with Youth Training for PFS
+  description: TBD
+  logistics: TBD
+  ceus: ""
+  archived: ""
+- 
+  dates: March
+  modality: Winston-Salem
+  training: Evidence-based Program Training
+  description: TBD
+  logistics: TBD
+  ceus: ""
+  archived: ""
+- 
+  dates: March
+  modality: Webinar
+  training: Capacity Webinar-Another Strategy
+  description: TBD
+  logistics: 'TBD- Register by the day before of the webinar'
+  ceus: ""
+  archived: ""
+- 
+  dates: April
+  modality: Webinar
+  training: Social Media Webinar for PFS
+  description: TBD
+  logistics: 'TBD- Register by the day before of the webinar'
+  ceus: ""
+  archived: ""
+- 
+  dates: April 12-13
+  modality: Winston-Salem
+  training: SAPST (2 day)
+  description: >
+    This is a reduced version specific to NC
+    of the 4-day CAPT training for
+    prevention specialists. Participants in
+    this training will learn foundational
+    information about ATOD prevention best
+    practices and strategic planning to
+    assist in their new role as a prevention
+    professional in the North Carolina ATOD
+    prevention system.
+  logistics: TBD
+  ceus: ""
+  archived: ""
+- 
+  dates: April
+  modality: ""
+  training: APNC
+  description: ""
+  logistics: TBD
+  ceus: ""
+  archived: ""
+- 
+  dates: April
+  modality: ""
+  training: ""
+  description: |
+    TA follow-up with law enforcement.
+     Will be scheduled by provider.
+  logistics: TBD
+  ceus: ""
+  archived: ""
+- 
+  dates: April
+  modality: ""
+  training: ""
+  description: >
+    TA meeting with CURES sites. Will be
+    scheduled by provider. 
+  logistics: TBD
+  ceus: ""
+  archived: ""
+- 
+  dates: April
+  modality: ""
+  training: ""
+  description: |
+    TA follow up on collective impact/ community partnership: get a list of partners and who will be needed, what are they doing now.
+    Will be scheduled by provider.
+  logistics: ""
+  ceus: ""
+  archived: ""
+- 
+  dates: May
+  modality: ""
+  training: ""
+  description: >
+    TA follow-up with SAPST. Will be
+    scheduled with providers.
+  logistics: ""
+  ceus: ""
+  archived: ""
+- 
+  dates: May 8-9
+  modality: McKimmon Center Raleigh
+  training: NC Prevention Conference
+  description: TBD
+  logistics: TBD
+  ceus: ""
+  archived: ""
+- 
+  dates: May
+  modality: Winston-Salem
+  training: Public Policy (2-day)
+  description: TBD
+  logistics: TBD
+  ceus: ""
+  archived: ""
+- 
+  dates: May
+  modality: Raleigh
+  training: Public Policy (2-day)
+  description: TBD
+  logistics: TBD
+  ceus: ""
+  archived: ""
+- 
+  dates: May
+  modality: TBD
+  training: 'Webinar: Substance use and Military'
+  description: TBD
+  logistics: TBD
+  ceus: ""
+  archived: ""
+- 
+  dates: May
+  modality: TBD
+  training: Capacity Webinar-another strategy
+  description: TBD
+  logistics: TBD
+  ceus: ""
+  archived: ""
+- 
+  dates: June
+  modality: ""
+  training: ""
+  description: |
+    TA Follow-up with public policy.
+    Will be scheduled by provider.
+  logistics: ""
+  ceus: ""
+  archived: ""

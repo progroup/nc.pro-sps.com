@@ -1,20 +1,27 @@
 <div class="above-nav">
   <div class="container">
     <div class="above-nav__outer-wrapper flex-stretch">
-      <a href="/"><img class="above-nav__logo" alt="GA SPS Logo" src="/assets/images/logo-gasps.png"></a>
+      <a href="/"><img class="above-nav__logo" alt="NC SPS Logo" src="/assets/images/logo-ncpttac.jpg" style="width: 300px"></a>
       <div class="above-nav__inner-wrapper hidden-xs">
-        <ul class="list-inline" style="display: flex; justify-content: space-between">
+<!--         <ul class="list-inline" style="display: flex; justify-content: space-between">
           <li><b>GA-SPS Data Centers:</b></li>
           <li><a href="https://www.georgiamds.uga.edu/PublicHome/Index" target="new">MDS</a></li>
           <li><a href="http://gaspsdata.net/" target="new">GA Data Warehouse</a></li>
-        </ul>
-        <a href="http://ecco.ga-sps.org/login.php" target="_new" class="ecco-login btn btn-primary">Ecco v4.0 Sign In</a>
+        </ul> -->
+        <div>
+            <a href="http://ncpreventiontta.skyprepapp.com/" target="_new" class="ecco-login btn btn-primary" style="width: auto;margin-bottom:2px">Training Portal</a>
+            <a href="http://ecco.nc.pro-sps.com/login.php" target="_new" class="ecco-login btn btn-primary" style="width: auto;margin-bottom:2px">Ecco v4.0 Sign In</a>
+        </div>
+		<div>
+             <a href="https://ncpreventiontta.zendesk.com/" target="_new" class="ecco-login btn btn-primary" style="width: auto;">Help Desk</a>
+        		<a href="/staff" class="ecco-login btn btn-primary" style="width: auto;">Staff Page</a>
+		</div>
       </div>
     </div>
   </div>
 </div>
 
-<nav class="navbar navbar-default" role="navigation" style="background-color: #eee;border-top:1px solid #9a002e">
+<nav class="navbar navbar-default" role="navigation" style="background-color: #eee;border-top:1px solid #002868">
   <div class="container">
     <div class="navbar-header">
       <div class="navbar-header">
@@ -37,16 +44,22 @@
             <li>
               <a href="/about/contact"><i style="color: rgba(154, 0, 46, 1);">&bull;</i> Contact Information</a>
             </li>
+            <li>
+              <a href="/about/consultants-corner"><i style="color: rgba(154, 0, 46, 1);">&bull;</i> Consultants Corner</a>
+            </li>
           </ul>
-        </li>
-        <li>
-          <a href="/learn"> Upload Reports</a>
         </li>
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Resources<b class="caret"></b></a>
           <ul class="dropdown-menu">
             <li>
-              <a href="/search?q=Intro"><i style="color: rgba(154, 0, 46, 1);">&bull;</i> Introduction to APP</a>
+              <a href="/search?q=Intro"><i style="color: rgba(154, 0, 46, 1);">&bull;</i> Introduction to Prevention</a>
+            </li>
+            <li>
+              <a href="/search?q=prescription+drugs"><i style="color: rgba(154, 0, 46, 1);">&bull;</i> Prescription Drug Prevention</a>
+            </li>
+            <li>
+              <a href="/search?q=strategies"><i style="color: rgba(154, 0, 46, 1);">&bull;</i> Evidence Based Strategies</a>
             </li>
             <li>
               <a href="/search?q=webinar"><i style="color: rgba(154, 0, 46, 1);">&bull;</i> Webinars</a>
@@ -57,14 +70,9 @@
             <li>
               <a href="/search?q=strategic"><i style="color: rgba(154, 0, 46, 1);">&bull;</i> Strategic Prevention Framework</a>
             </li>
-            <li>
-              <a href="/search?q=strategies"><i style="color: rgba(154, 0, 46, 1);">&bull;</i> APP Strategies</a>
-            </li>
+
             <li>
               <a href="/search?q=suicide+prevention"><i style="color: rgba(154, 0, 46, 1);">&bull;</i> Suicide Prevention</a>
-            </li>
-            <li>
-              <a href="/search?q=suicide+prevention"><i style="color: rgba(154, 0, 46, 1);">&bull;</i> Gen Rx</a>
             </li>
             <li>
               <a href="/search?q=admin"><i style="color: rgba(154, 0, 46, 1);">&bull;</i> Admin</a>
@@ -75,13 +83,9 @@
           <a href="/spf">SPF Overview</a>
         </li>
       </ul>
-      <div class="visible-xs-inline" style="margin-bottom: 2rem">
-        <b>GA-SPS Data Centers:</b><br>
-        <a style="display: inline-block;margin-right: 1rem" href="https://www.georgiamds.uga.edu/PublicHome/Index" target="new">MDS</a>
-        <a style="display: inline-block;margin-bottom: 1rem" href="http://gaspsdata.net/" target="new">GA Data Warehouse</a>
-      </div>
       <ul class="list-unstyled visible-xs-block">
-        <li><a href="http://ecco.ga-sps.org/login.php" target="_new" class="ecco-login btn btn-primary">Ecco v4.0 Sign In</a></li>
+        <li><a href="http://ncpreventiontta.skyprepapp.com/" target="_new" class="ecco-login btn btn-primary">Training Portal</a></li>
+        <li><a href="http://ecco.nc.pro-sps.com/login.php" target="_new" class="ecco-login btn btn-primary">Ecco v4.0 Sign In</a></li>
       </ul>
       <form class="navbar-form navbar-right" style="padding-right:0" role="search" action="<?php echo url('search') ?>">
         <div class="form-group">

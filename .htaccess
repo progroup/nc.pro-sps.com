@@ -44,3 +44,10 @@ RewriteRule ^(.*) index.php [L]
 #
 # php_flag short_open_tag on
 Options -Indexes
+
+<IfModule mod_alias.c>
+
+Redirect 301 /help http://ecco.nc.pro-sps.com/help.php
+Redirect 301 /learn http://ecco.nc.pro-sps.com/help.php
+
+</IfModule>

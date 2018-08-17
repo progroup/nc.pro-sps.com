@@ -13,7 +13,8 @@
 <?php echo js('//code.jquery.com/jquery-1.11.3.min.js') ?>
 <?php echo js('//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js') ?>
 <?php echo js('//cdn.datatables.net/1.10.7/js/jquery.dataTables.min.js') ?>
-<?php echo js('//s3.amazonaws.com/scripts.hellobar.com/db5100bd0d00d770fd80b188dbabf1529f1e4ff7.js') ?>
+<?php echo js('//my.hellobar.com/76072d5a345aa5dc7af6f1ab6c7988bcfe1806c6.js') ?>
+
 
 <?php if ($page->isHomePage()) : ?>
   <?php echo js('assets/royalslider/jquery.royalslider.min.js') ?>
