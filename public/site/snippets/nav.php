@@ -86,6 +86,8 @@
       <ul class="list-unstyled visible-xs-block">
         <li><a href="http://ncpreventiontta.skyprepapp.com/" target="_new" class="ecco-login btn btn-primary">Training Portal</a></li>
         <li><a href="http://ecco.nc.pro-sps.com/login.php" target="_new" class="ecco-login btn btn-primary">Ecco v4.0 Sign In</a></li>
+        <li><a href="https://ncpreventiontta.zendesk.com/" target="_new" class="ecco-login btn btn-primary">Help Desk</a></li>
+        <li><a href="/staff" class="ecco-login btn btn-primary">Staff Page</a></li>  
       </ul>
       <form class="navbar-form navbar-right" style="padding-right:0" role="search" action="<?php echo url('search') ?>">
         <div class="form-group">
